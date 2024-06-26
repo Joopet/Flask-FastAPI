@@ -1,0 +1,12 @@
+[2024-06-26 18:40:58 +0900] [32532] [INFO] Starting gunicorn 21.2.0
+[2024-06-26 18:40:58 +0900] [32532] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2024-06-26 18:40:58 +0900] [32532] [ERROR] Retrying in 1 second.
+[2024-06-26 18:40:59 +0900] [32532] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2024-06-26 18:40:59 +0900] [32532] [ERROR] Retrying in 1 second.
+[2024-06-26 18:41:00 +0900] [32532] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2024-06-26 18:41:00 +0900] [32532] [ERROR] Retrying in 1 second.
+[2024-06-26 18:41:01 +0900] [32532] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2024-06-26 18:41:01 +0900] [32532] [ERROR] Retrying in 1 second.
+[2024-06-26 18:41:02 +0900] [32532] [ERROR] Connection in use: ('127.0.0.1', 8000)
+[2024-06-26 18:41:02 +0900] [32532] [ERROR] Retrying in 1 second.
+[2024-06-26 18:41:03 +0900] [32532] [ERROR] Can't connect to ('127.0.0.1', 8000)
